@@ -43,3 +43,4 @@
   - 算不过来就减少, 但一定要做出来
 - 在基础特征1, 2, 3和附加特征1-1, 1-2, 2, 3上实验polynomial feature
   - degree再议
+- 试图比较NLTK去掉stop word和不去掉stop word的精确度
