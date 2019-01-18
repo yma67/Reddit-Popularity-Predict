@@ -8,6 +8,7 @@
 2. controversiality: categorical -> numeric
 3. isRoot: categorical -> numeric {1, 0}
 4. 160个词频统计
+  - 我们需要忽略介词/代词之类的词吗？
 
 ### Additional Features: (5个)
 
@@ -21,6 +22,9 @@
 
 - Children和isRoot的interaction
   - 似乎大家都喜欢(也只有耐心看)在第一个评论下写东西吧...
+
+- controversiality和children的interaction
+  - 越controversial越容易有回复对喷吧？
 
 ...未完待续
 
