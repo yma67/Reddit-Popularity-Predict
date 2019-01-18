@@ -44,3 +44,8 @@
 - 在基础特征1, 2, 3和附加特征1-1, 1-2, 2, 3上实验polynomial feature
   - degree再议
 - 试图比较NLTK去掉stop word和不去掉stop word的精确度
+
+## 计划
+- 完成线性回归代码，周末跑第一遍，debug （周日20号之前完成）
+- code review，优化算法，优化feature设计 （21号-27号）
+- 写report （28号-31号）
