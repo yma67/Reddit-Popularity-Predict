@@ -1,6 +1,6 @@
 # cs551 Project 1
 # Director: Xinyu Li (Boss Li)
-
+# Assoc. Director: Yudi Xie (Xie Ba)
 ## Features
 
 ### Basic Feature: (163个)
