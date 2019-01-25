@@ -1,5 +1,5 @@
 # cs551 Project 1
-# Lead Director: Xinyu Li (Boss Li)
+# Director: Xinyu Li (Boss Li)
 
 ## Features
 
