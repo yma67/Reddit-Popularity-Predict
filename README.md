@@ -1,5 +1,6 @@
 # cs551 Project 1
-
+## Director: BOSS (Chris) Li
+### Please read 'final report'
 ## Features
 
 ### Basic Feature: (163个)
